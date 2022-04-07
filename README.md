@@ -1,9 +1,16 @@
 # Challenge NodeJS and MongoDB
 ###### Nueva ruta para  probar
 
-http://localhost:4000/api/v1/deliveries
+Metodo GET: http://localhost:4000/api/v1/deliveries/findServices
+Parameters sent:
+ + dateFrom: "2021-01-05T00:01:00.000Z"
+ + dateTo: "2021-06-05T00:01:00.000Z"
+ + weight: 15000,
+ + page: 1,
+ + limit 1,
 
-Metdo GEt
+
+
 
 
 ###### English
