@@ -1,4 +1,10 @@
 # Challenge NodeJS and MongoDB
+###### Nueva ruta para  probar
+
+http://localhost:4000/api/v1/deliveries
+
+Metdo GEt
+
 
 ###### English
 
